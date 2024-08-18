@@ -1,0 +1,2468 @@
+[
+  {
+    "name": "iPhone 15 Pro Max",
+    "originalPrice": "34.990.000₫",
+    "salePrice": "29.590.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "vivo Y28",
+    "originalPrice": "5.790.000₫",
+    "salePrice": "5.390.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold6 5G",
+    "originalPrice": "47.990.000₫",
+    "salePrice": "45.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip6 5G",
+    "originalPrice": "32.990.000₫",
+    "salePrice": "30.990.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra 5G",
+    "originalPrice": "24.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "OPPO Reno11 F 5G",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi 13",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "5.090.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "realme C65",
+    "originalPrice": "4.790.000₫",
+    "salePrice": "4.290.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A55 5G",
+    "originalPrice": "11.990.000₫",
+    "salePrice": "11.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "iPhone 13",
+    "originalPrice": "17.790.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy M15 5G",
+    "originalPrice": "4.690.000₫",
+    "salePrice": "4.490.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy M35 5G 8GB/256GB",
+    "originalPrice": "8.790.000₫",
+    "salePrice": "8.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "originalPrice": "7.290.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A58",
+    "originalPrice": "",
+    "salePrice": "5.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A3x",
+    "originalPrice": "",
+    "salePrice": "4.690.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy M54 5G 8GB/256GB",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "realme Note 50",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S23 FE 5G",
+    "originalPrice": "14.890.000₫",
+    "salePrice": "11.390.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "Samsung Galaxy A35 5G",
+    "originalPrice": "9.290.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "originalPrice": "34.990.000₫",
+    "salePrice": "29.590.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "vivo Y28",
+    "originalPrice": "5.790.000₫",
+    "salePrice": "5.390.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold6 5G",
+    "originalPrice": "47.990.000₫",
+    "salePrice": "45.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip6 5G",
+    "originalPrice": "32.990.000₫",
+    "salePrice": "30.990.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra 5G",
+    "originalPrice": "24.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "OPPO Reno11 F 5G",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi 13",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "5.090.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "realme C65",
+    "originalPrice": "4.790.000₫",
+    "salePrice": "4.290.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A55 5G",
+    "originalPrice": "11.990.000₫",
+    "salePrice": "11.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "iPhone 13",
+    "originalPrice": "17.790.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy M15 5G",
+    "originalPrice": "4.690.000₫",
+    "salePrice": "4.490.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy M35 5G 8GB/256GB",
+    "originalPrice": "8.790.000₫",
+    "salePrice": "8.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "originalPrice": "7.290.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A58",
+    "originalPrice": "",
+    "salePrice": "5.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A3x",
+    "originalPrice": "",
+    "salePrice": "4.690.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy M54 5G 8GB/256GB",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "realme Note 50",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S23 FE 5G",
+    "originalPrice": "14.890.000₫",
+    "salePrice": "11.390.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "Samsung Galaxy A35 5G",
+    "originalPrice": "9.290.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "vivo Y36 8GB/256GB",
+    "originalPrice": "6.190.000₫",
+    "salePrice": "5.890.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "OPPO A3",
+    "originalPrice": "",
+    "salePrice": "4.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A18",
+    "originalPrice": "3.290.000₫",
+    "salePrice": "3.090.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi 13C",
+    "originalPrice": "3.090.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra 5G",
+    "originalPrice": "33.990.000₫",
+    "salePrice": "27.990.000₫",
+    "discountRate": "-17%"
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "originalPrice": "28.990.000₫",
+    "salePrice": "24.890.000₫",
+    "discountRate": "-14%"
+  },
+  {
+    "name": "Xiaomi Redmi A3",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "originalPrice": "25.990.000₫",
+    "salePrice": "22.890.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "iPhone 15",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "19.790.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y100",
+    "originalPrice": "7.690.000₫",
+    "salePrice": "7.090.000₫",
+    "discountRate": "-7%"
+  },
+  {
+    "name": "Samsung Galaxy M55 5G",
+    "originalPrice": "12.690.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y03",
+    "originalPrice": "",
+    "salePrice": "3.290.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 Pro 5G 12GB/512GB",
+    "originalPrice": "",
+    "salePrice": "18.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24 5G",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "17.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Reno12 5G 12GB/256GB Hồng",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 5G",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 F 5G",
+    "originalPrice": "",
+    "salePrice": "9.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24+ 5G",
+    "originalPrice": "26.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "OPPO Reno11 5G 8GB/256GB",
+    "originalPrice": "10.990.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "iPhone 11",
+    "originalPrice": "11.790.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "originalPrice": "34.990.000₫",
+    "salePrice": "29.590.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "vivo Y28",
+    "originalPrice": "5.790.000₫",
+    "salePrice": "5.390.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold6 5G",
+    "originalPrice": "47.990.000₫",
+    "salePrice": "45.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip6 5G",
+    "originalPrice": "32.990.000₫",
+    "salePrice": "30.990.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra 5G",
+    "originalPrice": "24.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "OPPO Reno11 F 5G",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi 13",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "5.090.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "realme C65",
+    "originalPrice": "4.790.000₫",
+    "salePrice": "4.290.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A55 5G",
+    "originalPrice": "11.990.000₫",
+    "salePrice": "11.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "iPhone 13",
+    "originalPrice": "17.790.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy M15 5G",
+    "originalPrice": "4.690.000₫",
+    "salePrice": "4.490.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy M35 5G 8GB/256GB",
+    "originalPrice": "8.790.000₫",
+    "salePrice": "8.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "originalPrice": "7.290.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A58",
+    "originalPrice": "",
+    "salePrice": "5.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A3x",
+    "originalPrice": "",
+    "salePrice": "4.690.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy M54 5G 8GB/256GB",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "realme Note 50",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S23 FE 5G",
+    "originalPrice": "14.890.000₫",
+    "salePrice": "11.390.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "Samsung Galaxy A35 5G",
+    "originalPrice": "9.290.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "vivo Y36 8GB/256GB",
+    "originalPrice": "6.190.000₫",
+    "salePrice": "5.890.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "OPPO A3",
+    "originalPrice": "",
+    "salePrice": "4.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A18",
+    "originalPrice": "3.290.000₫",
+    "salePrice": "3.090.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi 13C",
+    "originalPrice": "3.090.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra 5G",
+    "originalPrice": "33.990.000₫",
+    "salePrice": "27.990.000₫",
+    "discountRate": "-17%"
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "originalPrice": "28.990.000₫",
+    "salePrice": "24.890.000₫",
+    "discountRate": "-14%"
+  },
+  {
+    "name": "Xiaomi Redmi A3",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "originalPrice": "25.990.000₫",
+    "salePrice": "22.890.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "iPhone 15",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "19.790.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y100",
+    "originalPrice": "7.690.000₫",
+    "salePrice": "7.090.000₫",
+    "discountRate": "-7%"
+  },
+  {
+    "name": "Samsung Galaxy M55 5G",
+    "originalPrice": "12.690.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y03",
+    "originalPrice": "",
+    "salePrice": "3.290.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 Pro 5G 12GB/512GB",
+    "originalPrice": "",
+    "salePrice": "18.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24 5G",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "17.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Reno12 5G 12GB/256GB Hồng",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 5G",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 F 5G",
+    "originalPrice": "",
+    "salePrice": "9.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24+ 5G",
+    "originalPrice": "26.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "OPPO Reno11 5G 8GB/256GB",
+    "originalPrice": "10.990.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "iPhone 11",
+    "originalPrice": "11.790.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "realme C67",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "4.190.000₫",
+    "discountRate": "-20%"
+  },
+  {
+    "name": "iPhone 12",
+    "originalPrice": "13.090.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "realme C53",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "3.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "originalPrice": "29.490.000₫",
+    "salePrice": "26.990.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A38",
+    "originalPrice": "",
+    "salePrice": "4.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "vivo Y17s",
+    "originalPrice": "3.990.000₫",
+    "salePrice": "3.590.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "OPPO Reno11 Pro 5G 12GB/512GB",
+    "originalPrice": "16.990.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-17%"
+  },
+  {
+    "name": "Samsung Galaxy A15 5G 8GB/256GB",
+    "originalPrice": "6.290.000₫",
+    "salePrice": "5.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy A25 5G",
+    "originalPrice": "6.990.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy A15",
+    "originalPrice": "5.590.000₫",
+    "salePrice": "4.990.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A24 6GB/128GB",
+    "originalPrice": "5.890.000₫",
+    "salePrice": "4.640.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy A05s",
+    "originalPrice": "4.490.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "Samsung Galaxy A05",
+    "originalPrice": "3.490.000₫",
+    "salePrice": "3.090.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro 5G",
+    "originalPrice": "9.490.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "OPPO Reno10 Pro 5G 12GB/256GB",
+    "originalPrice": "13.990.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Reno10 Pro+ 5G 12GB/256GB",
+    "originalPrice": "19.990.000₫",
+    "salePrice": "15.990.000₫",
+    "discountRate": "-20%"
+  },
+  {
+    "name": "Xiaomi 14 5G",
+    "originalPrice": "24.490.000₫",
+    "salePrice": "21.490.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "Masstel Fami 50 4G",
+    "originalPrice": "",
+    "salePrice": "600.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel IZI T6 4G",
+    "originalPrice": "",
+    "salePrice": "500.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel IZI 10 4G",
+    "originalPrice": "",
+    "salePrice": "410.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "originalPrice": "34.990.000₫",
+    "salePrice": "29.590.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "vivo Y28",
+    "originalPrice": "5.790.000₫",
+    "salePrice": "5.390.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold6 5G",
+    "originalPrice": "47.990.000₫",
+    "salePrice": "45.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip6 5G",
+    "originalPrice": "32.990.000₫",
+    "salePrice": "30.990.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra 5G",
+    "originalPrice": "24.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "OPPO Reno11 F 5G",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi 13",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "5.090.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "realme C65",
+    "originalPrice": "4.790.000₫",
+    "salePrice": "4.290.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A55 5G",
+    "originalPrice": "11.990.000₫",
+    "salePrice": "11.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "iPhone 13",
+    "originalPrice": "17.790.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy M15 5G",
+    "originalPrice": "4.690.000₫",
+    "salePrice": "4.490.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy M35 5G 8GB/256GB",
+    "originalPrice": "8.790.000₫",
+    "salePrice": "8.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "originalPrice": "7.290.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A58",
+    "originalPrice": "",
+    "salePrice": "5.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A3x",
+    "originalPrice": "",
+    "salePrice": "4.690.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy M54 5G 8GB/256GB",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "realme Note 50",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S23 FE 5G",
+    "originalPrice": "14.890.000₫",
+    "salePrice": "11.390.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "Samsung Galaxy A35 5G",
+    "originalPrice": "9.290.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "vivo Y36 8GB/256GB",
+    "originalPrice": "6.190.000₫",
+    "salePrice": "5.890.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "OPPO A3",
+    "originalPrice": "",
+    "salePrice": "4.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A18",
+    "originalPrice": "3.290.000₫",
+    "salePrice": "3.090.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi 13C",
+    "originalPrice": "3.090.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra 5G",
+    "originalPrice": "33.990.000₫",
+    "salePrice": "27.990.000₫",
+    "discountRate": "-17%"
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "originalPrice": "28.990.000₫",
+    "salePrice": "24.890.000₫",
+    "discountRate": "-14%"
+  },
+  {
+    "name": "Xiaomi Redmi A3",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "originalPrice": "25.990.000₫",
+    "salePrice": "22.890.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "iPhone 15",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "19.790.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y100",
+    "originalPrice": "7.690.000₫",
+    "salePrice": "7.090.000₫",
+    "discountRate": "-7%"
+  },
+  {
+    "name": "Samsung Galaxy M55 5G",
+    "originalPrice": "12.690.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y03",
+    "originalPrice": "",
+    "salePrice": "3.290.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 Pro 5G 12GB/512GB",
+    "originalPrice": "",
+    "salePrice": "18.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24 5G",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "17.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Reno12 5G 12GB/256GB Hồng",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 5G",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 F 5G",
+    "originalPrice": "",
+    "salePrice": "9.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24+ 5G",
+    "originalPrice": "26.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "OPPO Reno11 5G 8GB/256GB",
+    "originalPrice": "10.990.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "iPhone 11",
+    "originalPrice": "11.790.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "realme C67",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "4.190.000₫",
+    "discountRate": "-20%"
+  },
+  {
+    "name": "iPhone 12",
+    "originalPrice": "13.090.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "realme C53",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "3.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "originalPrice": "29.490.000₫",
+    "salePrice": "26.990.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A38",
+    "originalPrice": "",
+    "salePrice": "4.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "vivo Y17s",
+    "originalPrice": "3.990.000₫",
+    "salePrice": "3.590.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "OPPO Reno11 Pro 5G 12GB/512GB",
+    "originalPrice": "16.990.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-17%"
+  },
+  {
+    "name": "Samsung Galaxy A15 5G 8GB/256GB",
+    "originalPrice": "6.290.000₫",
+    "salePrice": "5.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy A25 5G",
+    "originalPrice": "6.990.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy A15",
+    "originalPrice": "5.590.000₫",
+    "salePrice": "4.990.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A24 6GB/128GB",
+    "originalPrice": "5.890.000₫",
+    "salePrice": "4.640.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy A05s",
+    "originalPrice": "4.490.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "Samsung Galaxy A05",
+    "originalPrice": "3.490.000₫",
+    "salePrice": "3.090.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro 5G",
+    "originalPrice": "9.490.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "OPPO Reno10 Pro 5G 12GB/256GB",
+    "originalPrice": "13.990.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Reno10 Pro+ 5G 12GB/256GB",
+    "originalPrice": "19.990.000₫",
+    "salePrice": "15.990.000₫",
+    "discountRate": "-20%"
+  },
+  {
+    "name": "Xiaomi 14 5G",
+    "originalPrice": "24.490.000₫",
+    "salePrice": "21.490.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "Masstel Fami 50 4G",
+    "originalPrice": "",
+    "salePrice": "600.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel IZI T6 4G",
+    "originalPrice": "",
+    "salePrice": "500.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel IZI 10 4G",
+    "originalPrice": "",
+    "salePrice": "410.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel Lux 10",
+    "originalPrice": "",
+    "salePrice": "420.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "realme C51",
+    "originalPrice": "3.290.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Find N3 5G 16GB/512GB",
+    "originalPrice": "44.990.000₫",
+    "salePrice": "41.990.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi 14 Ultra 5G 16GB/512GB",
+    "originalPrice": "32.990.000₫",
+    "salePrice": "29.990.000₫",
+    "discountRate": "-9%"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold5 5G 12GB/256GB",
+    "originalPrice": "40.990.000₫",
+    "salePrice": "27.990.000₫",
+    "discountRate": "-31%"
+  },
+  {
+    "name": "OPPO Find N3 Flip 5G",
+    "originalPrice": "",
+    "salePrice": "22.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "originalPrice": "22.290.000₫",
+    "salePrice": "19.790.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "iPhone 14",
+    "originalPrice": "19.090.000₫",
+    "salePrice": "17.090.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip5 5G",
+    "originalPrice": "25.990.000₫",
+    "salePrice": "15.990.000₫",
+    "discountRate": "-38%"
+  },
+  {
+    "name": "Samsung Galaxy S23 FE 5G 8GB/256GB",
+    "originalPrice": "16.890.000₫",
+    "salePrice": "14.390.000₫",
+    "discountRate": "-14%"
+  },
+  {
+    "name": "vivo V30 5G 12GB/512GB",
+    "originalPrice": "",
+    "salePrice": "13.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "vivo V30e 5G",
+    "originalPrice": "",
+    "salePrice": "10.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "realme 11 Pro+ 5G 12GB/512GB",
+    "originalPrice": "14.990.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-40%"
+  },
+  {
+    "name": "vivo V29e 5G 12GB/256GB",
+    "originalPrice": "9.990.000₫",
+    "salePrice": "8.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "OPPO Reno12 F 8GB/256GB",
+    "originalPrice": "8.490.000₫",
+    "salePrice": "8.190.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "realme 12",
+    "originalPrice": "7.990.000₫",
+    "salePrice": "7.790.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A79 5G 8GB/256GB",
+    "originalPrice": "7.490.000₫",
+    "salePrice": "7.190.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "OPPO A78 8GB/256GB",
+    "originalPrice": "",
+    "salePrice": "6.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "HONOR X8b 8GB/512GB",
+    "originalPrice": "7.690.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "HONOR 90 Lite 5G 8GB/256GB",
+    "originalPrice": "6.490.000₫",
+    "salePrice": "5.490.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "originalPrice": "34.990.000₫",
+    "salePrice": "29.590.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "vivo Y28",
+    "originalPrice": "5.790.000₫",
+    "salePrice": "5.390.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold6 5G",
+    "originalPrice": "47.990.000₫",
+    "salePrice": "45.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip6 5G",
+    "originalPrice": "32.990.000₫",
+    "salePrice": "30.990.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra 5G",
+    "originalPrice": "24.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "OPPO Reno11 F 5G",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi 13",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "5.090.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "realme C65",
+    "originalPrice": "4.790.000₫",
+    "salePrice": "4.290.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A55 5G",
+    "originalPrice": "11.990.000₫",
+    "salePrice": "11.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "iPhone 13",
+    "originalPrice": "17.790.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy M15 5G",
+    "originalPrice": "4.690.000₫",
+    "salePrice": "4.490.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy M35 5G 8GB/256GB",
+    "originalPrice": "8.790.000₫",
+    "salePrice": "8.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "originalPrice": "7.290.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A58",
+    "originalPrice": "",
+    "salePrice": "5.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A3x",
+    "originalPrice": "",
+    "salePrice": "4.690.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy M54 5G 8GB/256GB",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "realme Note 50",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S23 FE 5G",
+    "originalPrice": "14.890.000₫",
+    "salePrice": "11.390.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "Samsung Galaxy A35 5G",
+    "originalPrice": "9.290.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "vivo Y36 8GB/256GB",
+    "originalPrice": "6.190.000₫",
+    "salePrice": "5.890.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "OPPO A3",
+    "originalPrice": "",
+    "salePrice": "4.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A18",
+    "originalPrice": "3.290.000₫",
+    "salePrice": "3.090.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi 13C",
+    "originalPrice": "3.090.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra 5G",
+    "originalPrice": "33.990.000₫",
+    "salePrice": "27.990.000₫",
+    "discountRate": "-17%"
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "originalPrice": "28.990.000₫",
+    "salePrice": "24.890.000₫",
+    "discountRate": "-14%"
+  },
+  {
+    "name": "Xiaomi Redmi A3",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "originalPrice": "25.990.000₫",
+    "salePrice": "22.890.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "iPhone 15",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "19.790.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y100",
+    "originalPrice": "7.690.000₫",
+    "salePrice": "7.090.000₫",
+    "discountRate": "-7%"
+  },
+  {
+    "name": "Samsung Galaxy M55 5G",
+    "originalPrice": "12.690.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y03",
+    "originalPrice": "",
+    "salePrice": "3.290.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 Pro 5G 12GB/512GB",
+    "originalPrice": "",
+    "salePrice": "18.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24 5G",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "17.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Reno12 5G 12GB/256GB Hồng",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 5G",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 F 5G",
+    "originalPrice": "",
+    "salePrice": "9.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24+ 5G",
+    "originalPrice": "26.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "OPPO Reno11 5G 8GB/256GB",
+    "originalPrice": "10.990.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "iPhone 11",
+    "originalPrice": "11.790.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "realme C67",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "4.190.000₫",
+    "discountRate": "-20%"
+  },
+  {
+    "name": "iPhone 12",
+    "originalPrice": "13.090.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "realme C53",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "3.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "originalPrice": "29.490.000₫",
+    "salePrice": "26.990.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A38",
+    "originalPrice": "",
+    "salePrice": "4.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "vivo Y17s",
+    "originalPrice": "3.990.000₫",
+    "salePrice": "3.590.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "OPPO Reno11 Pro 5G 12GB/512GB",
+    "originalPrice": "16.990.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-17%"
+  },
+  {
+    "name": "Samsung Galaxy A15 5G 8GB/256GB",
+    "originalPrice": "6.290.000₫",
+    "salePrice": "5.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy A25 5G",
+    "originalPrice": "6.990.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy A15",
+    "originalPrice": "5.590.000₫",
+    "salePrice": "4.990.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A24 6GB/128GB",
+    "originalPrice": "5.890.000₫",
+    "salePrice": "4.640.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy A05s",
+    "originalPrice": "4.490.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "Samsung Galaxy A05",
+    "originalPrice": "3.490.000₫",
+    "salePrice": "3.090.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro 5G",
+    "originalPrice": "9.490.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "OPPO Reno10 Pro 5G 12GB/256GB",
+    "originalPrice": "13.990.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Reno10 Pro+ 5G 12GB/256GB",
+    "originalPrice": "19.990.000₫",
+    "salePrice": "15.990.000₫",
+    "discountRate": "-20%"
+  },
+  {
+    "name": "Xiaomi 14 5G",
+    "originalPrice": "24.490.000₫",
+    "salePrice": "21.490.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "Masstel Fami 50 4G",
+    "originalPrice": "",
+    "salePrice": "600.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel IZI T6 4G",
+    "originalPrice": "",
+    "salePrice": "500.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel IZI 10 4G",
+    "originalPrice": "",
+    "salePrice": "410.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel Lux 10",
+    "originalPrice": "",
+    "salePrice": "420.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "realme C51",
+    "originalPrice": "3.290.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Find N3 5G 16GB/512GB",
+    "originalPrice": "44.990.000₫",
+    "salePrice": "41.990.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi 14 Ultra 5G 16GB/512GB",
+    "originalPrice": "32.990.000₫",
+    "salePrice": "29.990.000₫",
+    "discountRate": "-9%"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold5 5G 12GB/256GB",
+    "originalPrice": "40.990.000₫",
+    "salePrice": "27.990.000₫",
+    "discountRate": "-31%"
+  },
+  {
+    "name": "OPPO Find N3 Flip 5G",
+    "originalPrice": "",
+    "salePrice": "22.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "originalPrice": "22.290.000₫",
+    "salePrice": "19.790.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "iPhone 14",
+    "originalPrice": "19.090.000₫",
+    "salePrice": "17.090.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip5 5G",
+    "originalPrice": "25.990.000₫",
+    "salePrice": "15.990.000₫",
+    "discountRate": "-38%"
+  },
+  {
+    "name": "Samsung Galaxy S23 FE 5G 8GB/256GB",
+    "originalPrice": "16.890.000₫",
+    "salePrice": "14.390.000₫",
+    "discountRate": "-14%"
+  },
+  {
+    "name": "vivo V30 5G 12GB/512GB",
+    "originalPrice": "",
+    "salePrice": "13.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "vivo V30e 5G",
+    "originalPrice": "",
+    "salePrice": "10.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "realme 11 Pro+ 5G 12GB/512GB",
+    "originalPrice": "14.990.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-40%"
+  },
+  {
+    "name": "vivo V29e 5G 12GB/256GB",
+    "originalPrice": "9.990.000₫",
+    "salePrice": "8.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "OPPO Reno12 F 8GB/256GB",
+    "originalPrice": "8.490.000₫",
+    "salePrice": "8.190.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "realme 12",
+    "originalPrice": "7.990.000₫",
+    "salePrice": "7.790.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A79 5G 8GB/256GB",
+    "originalPrice": "7.490.000₫",
+    "salePrice": "7.190.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "OPPO A78 8GB/256GB",
+    "originalPrice": "",
+    "salePrice": "6.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "HONOR X8b 8GB/512GB",
+    "originalPrice": "7.690.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "HONOR 90 Lite 5G 8GB/256GB",
+    "originalPrice": "6.490.000₫",
+    "salePrice": "5.490.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "HONOR 90 Lite 5G 8GB/256GB",
+    "originalPrice": "6.490.000₫",
+    "salePrice": "5.490.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "OPPO A60",
+    "originalPrice": "5.490.000₫",
+    "salePrice": "5.190.000₫",
+    "discountRate": "-5%"
+  },
+  {
+    "name": "HONOR X7b 8GB/256GB",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "4.790.000₫",
+    "discountRate": "-9%"
+  },
+  {
+    "name": "vivo Y18",
+    "originalPrice": "3.990.000₫",
+    "salePrice": "3.790.000₫",
+    "discountRate": "-5%"
+  },
+  {
+    "name": "HONOR X6b",
+    "originalPrice": "",
+    "salePrice": "3.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Xiaomi POCO M6 6GB/128GB",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "3.890.000₫",
+    "discountRate": "-9%"
+  },
+  {
+    "name": "TCL 40 NXTPAPER 8GB/256GB",
+    "originalPrice": "3.990.000₫",
+    "salePrice": "3.840.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "vivo Y18S 6GB/128GB",
+    "originalPrice": "4.190.000₫",
+    "salePrice": "3.790.000₫",
+    "discountRate": "-9%"
+  },
+  {
+    "name": "realme C61",
+    "originalPrice": "",
+    "salePrice": "3.590.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Tecno Spark 20C 8GB/128GB",
+    "originalPrice": "",
+    "salePrice": "3.190.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy A06",
+    "originalPrice": "",
+    "salePrice": "3.190.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A17K 3GB/64GB",
+    "originalPrice": "",
+    "salePrice": "2.790.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "realme C60 4GB/64GB",
+    "originalPrice": "",
+    "salePrice": "2.790.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "TCL 505 4GB/128GB",
+    "originalPrice": "2.690.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "HONOR X5 Plus 4GB/64GB",
+    "originalPrice": "2.490.000₫",
+    "salePrice": "2.090.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "TCL 406s 4GB/64GB",
+    "originalPrice": "",
+    "salePrice": "1.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Tecno Spark Go 2024 3GB/64GB",
+    "originalPrice": "",
+    "salePrice": "1.890.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Nokia 3210 4G",
+    "originalPrice": "",
+    "salePrice": "1.590.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Nokia 105",
+    "originalPrice": "",
+    "salePrice": "820.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Mobell Rock 4 4G",
+    "originalPrice": "",
+    "salePrice": "790.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 15 Pro Max",
+    "originalPrice": "34.990.000₫",
+    "salePrice": "29.590.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "vivo Y28",
+    "originalPrice": "5.790.000₫",
+    "salePrice": "5.390.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold6 5G",
+    "originalPrice": "47.990.000₫",
+    "salePrice": "45.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip6 5G",
+    "originalPrice": "32.990.000₫",
+    "salePrice": "30.990.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra 5G",
+    "originalPrice": "24.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "OPPO Reno11 F 5G",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi 13",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "5.090.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "realme C65",
+    "originalPrice": "4.790.000₫",
+    "salePrice": "4.290.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A55 5G",
+    "originalPrice": "11.990.000₫",
+    "salePrice": "11.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "iPhone 13",
+    "originalPrice": "17.790.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy M15 5G",
+    "originalPrice": "4.690.000₫",
+    "salePrice": "4.490.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy M35 5G 8GB/256GB",
+    "originalPrice": "8.790.000₫",
+    "salePrice": "8.190.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro",
+    "originalPrice": "7.290.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A58",
+    "originalPrice": "",
+    "salePrice": "5.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A3x",
+    "originalPrice": "",
+    "salePrice": "4.690.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy M54 5G 8GB/256GB",
+    "originalPrice": "8.990.000₫",
+    "salePrice": "7.990.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "realme Note 50",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S23 FE 5G",
+    "originalPrice": "14.890.000₫",
+    "salePrice": "11.390.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "Samsung Galaxy A35 5G",
+    "originalPrice": "9.290.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "vivo Y36 8GB/256GB",
+    "originalPrice": "6.190.000₫",
+    "salePrice": "5.890.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "OPPO A3",
+    "originalPrice": "",
+    "salePrice": "4.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A18",
+    "originalPrice": "3.290.000₫",
+    "salePrice": "3.090.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi Redmi 13C",
+    "originalPrice": "3.090.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "Samsung Galaxy S24 Ultra 5G",
+    "originalPrice": "33.990.000₫",
+    "salePrice": "27.990.000₫",
+    "discountRate": "-17%"
+  },
+  {
+    "name": "iPhone 15 Pro",
+    "originalPrice": "28.990.000₫",
+    "salePrice": "24.890.000₫",
+    "discountRate": "-14%"
+  },
+  {
+    "name": "Xiaomi Redmi A3",
+    "originalPrice": "",
+    "salePrice": "2.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 15 Plus",
+    "originalPrice": "25.990.000₫",
+    "salePrice": "22.890.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "iPhone 15",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "19.790.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y100",
+    "originalPrice": "7.690.000₫",
+    "salePrice": "7.090.000₫",
+    "discountRate": "-7%"
+  },
+  {
+    "name": "Samsung Galaxy M55 5G",
+    "originalPrice": "12.690.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "vivo Y03",
+    "originalPrice": "",
+    "salePrice": "3.290.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 Pro 5G 12GB/512GB",
+    "originalPrice": "",
+    "salePrice": "18.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24 5G",
+    "originalPrice": "22.990.000₫",
+    "salePrice": "17.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Reno12 5G 12GB/256GB Hồng",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 5G",
+    "originalPrice": "",
+    "salePrice": "12.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO Reno12 F 5G",
+    "originalPrice": "",
+    "salePrice": "9.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy S24+ 5G",
+    "originalPrice": "26.990.000₫",
+    "salePrice": "21.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "OPPO Reno11 5G 8GB/256GB",
+    "originalPrice": "10.990.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-18%"
+  },
+  {
+    "name": "iPhone 11",
+    "originalPrice": "11.790.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-23%"
+  },
+  {
+    "name": "realme C67",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "4.190.000₫",
+    "discountRate": "-20%"
+  },
+  {
+    "name": "iPhone 12",
+    "originalPrice": "13.090.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "realme C53",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "3.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "originalPrice": "29.490.000₫",
+    "salePrice": "26.990.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "OPPO A38",
+    "originalPrice": "",
+    "salePrice": "4.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "vivo Y17s",
+    "originalPrice": "3.990.000₫",
+    "salePrice": "3.590.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "OPPO Reno11 Pro 5G 12GB/512GB",
+    "originalPrice": "16.990.000₫",
+    "salePrice": "13.990.000₫",
+    "discountRate": "-17%"
+  },
+  {
+    "name": "Samsung Galaxy A15 5G 8GB/256GB",
+    "originalPrice": "6.290.000₫",
+    "salePrice": "5.990.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy A25 5G",
+    "originalPrice": "6.990.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "Samsung Galaxy A15",
+    "originalPrice": "5.590.000₫",
+    "salePrice": "4.990.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy A24 6GB/128GB",
+    "originalPrice": "5.890.000₫",
+    "salePrice": "4.640.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "Samsung Galaxy A05s",
+    "originalPrice": "4.490.000₫",
+    "salePrice": "4.090.000₫",
+    "discountRate": "-8%"
+  },
+  {
+    "name": "Samsung Galaxy A05",
+    "originalPrice": "3.490.000₫",
+    "salePrice": "3.090.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "Xiaomi Redmi Note 13 Pro 5G",
+    "originalPrice": "9.490.000₫",
+    "salePrice": "8.490.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "OPPO Reno10 Pro 5G 12GB/256GB",
+    "originalPrice": "13.990.000₫",
+    "salePrice": "10.990.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Reno10 Pro+ 5G 12GB/256GB",
+    "originalPrice": "19.990.000₫",
+    "salePrice": "15.990.000₫",
+    "discountRate": "-20%"
+  },
+  {
+    "name": "Xiaomi 14 5G",
+    "originalPrice": "24.490.000₫",
+    "salePrice": "21.490.000₫",
+    "discountRate": "-12%"
+  },
+  {
+    "name": "Masstel Fami 50 4G",
+    "originalPrice": "",
+    "salePrice": "600.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel IZI T6 4G",
+    "originalPrice": "",
+    "salePrice": "500.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel IZI 10 4G",
+    "originalPrice": "",
+    "salePrice": "410.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel Lux 10",
+    "originalPrice": "",
+    "salePrice": "420.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "realme C51",
+    "originalPrice": "3.290.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-21%"
+  },
+  {
+    "name": "OPPO Find N3 5G 16GB/512GB",
+    "originalPrice": "44.990.000₫",
+    "salePrice": "41.990.000₫",
+    "discountRate": "-6%"
+  },
+  {
+    "name": "Xiaomi 14 Ultra 5G 16GB/512GB",
+    "originalPrice": "32.990.000₫",
+    "salePrice": "29.990.000₫",
+    "discountRate": "-9%"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold5 5G 12GB/256GB",
+    "originalPrice": "40.990.000₫",
+    "salePrice": "27.990.000₫",
+    "discountRate": "-31%"
+  },
+  {
+    "name": "OPPO Find N3 Flip 5G",
+    "originalPrice": "",
+    "salePrice": "22.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "originalPrice": "22.290.000₫",
+    "salePrice": "19.790.000₫",
+    "discountRate": "-11%"
+  },
+  {
+    "name": "iPhone 14",
+    "originalPrice": "19.090.000₫",
+    "salePrice": "17.090.000₫",
+    "discountRate": "-10%"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip5 5G",
+    "originalPrice": "25.990.000₫",
+    "salePrice": "15.990.000₫",
+    "discountRate": "-38%"
+  },
+  {
+    "name": "Samsung Galaxy S23 FE 5G 8GB/256GB",
+    "originalPrice": "16.890.000₫",
+    "salePrice": "14.390.000₫",
+    "discountRate": "-14%"
+  },
+  {
+    "name": "vivo V30 5G 12GB/512GB",
+    "originalPrice": "",
+    "salePrice": "13.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "vivo V30e 5G",
+    "originalPrice": "",
+    "salePrice": "10.490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "realme 11 Pro+ 5G 12GB/512GB",
+    "originalPrice": "14.990.000₫",
+    "salePrice": "8.990.000₫",
+    "discountRate": "-40%"
+  },
+  {
+    "name": "vivo V29e 5G 12GB/256GB",
+    "originalPrice": "9.990.000₫",
+    "salePrice": "8.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "OPPO Reno12 F 8GB/256GB",
+    "originalPrice": "8.490.000₫",
+    "salePrice": "8.190.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "realme 12",
+    "originalPrice": "7.990.000₫",
+    "salePrice": "7.790.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A79 5G 8GB/256GB",
+    "originalPrice": "7.490.000₫",
+    "salePrice": "7.190.000₫",
+    "discountRate": "-4%"
+  },
+  {
+    "name": "OPPO A78 8GB/256GB",
+    "originalPrice": "",
+    "salePrice": "6.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "HONOR X8b 8GB/512GB",
+    "originalPrice": "7.690.000₫",
+    "salePrice": "6.690.000₫",
+    "discountRate": "-13%"
+  },
+  {
+    "name": "HONOR 90 Lite 5G 8GB/256GB",
+    "originalPrice": "6.490.000₫",
+    "salePrice": "5.490.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "HONOR 90 Lite 5G 8GB/256GB",
+    "originalPrice": "6.490.000₫",
+    "salePrice": "5.490.000₫",
+    "discountRate": "-15%"
+  },
+  {
+    "name": "OPPO A60",
+    "originalPrice": "5.490.000₫",
+    "salePrice": "5.190.000₫",
+    "discountRate": "-5%"
+  },
+  {
+    "name": "HONOR X7b 8GB/256GB",
+    "originalPrice": "5.290.000₫",
+    "salePrice": "4.790.000₫",
+    "discountRate": "-9%"
+  },
+  {
+    "name": "vivo Y18",
+    "originalPrice": "3.990.000₫",
+    "salePrice": "3.790.000₫",
+    "discountRate": "-5%"
+  },
+  {
+    "name": "HONOR X6b",
+    "originalPrice": "",
+    "salePrice": "3.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Xiaomi POCO M6 6GB/128GB",
+    "originalPrice": "4.290.000₫",
+    "salePrice": "3.890.000₫",
+    "discountRate": "-9%"
+  },
+  {
+    "name": "TCL 40 NXTPAPER 8GB/256GB",
+    "originalPrice": "3.990.000₫",
+    "salePrice": "3.840.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "vivo Y18S 6GB/128GB",
+    "originalPrice": "4.190.000₫",
+    "salePrice": "3.790.000₫",
+    "discountRate": "-9%"
+  },
+  {
+    "name": "realme C61",
+    "originalPrice": "",
+    "salePrice": "3.590.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Tecno Spark 20C 8GB/128GB",
+    "originalPrice": "",
+    "salePrice": "3.190.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Samsung Galaxy A06",
+    "originalPrice": "",
+    "salePrice": "3.190.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "OPPO A17K 3GB/64GB",
+    "originalPrice": "",
+    "salePrice": "2.790.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "realme C60 4GB/64GB",
+    "originalPrice": "",
+    "salePrice": "2.790.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "TCL 505 4GB/128GB",
+    "originalPrice": "2.690.000₫",
+    "salePrice": "2.590.000₫",
+    "discountRate": "-3%"
+  },
+  {
+    "name": "HONOR X5 Plus 4GB/64GB",
+    "originalPrice": "2.490.000₫",
+    "salePrice": "2.090.000₫",
+    "discountRate": "-16%"
+  },
+  {
+    "name": "TCL 406s 4GB/64GB",
+    "originalPrice": "",
+    "salePrice": "1.990.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Tecno Spark Go 2024 3GB/64GB",
+    "originalPrice": "",
+    "salePrice": "1.890.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Nokia 3210 4G",
+    "originalPrice": "",
+    "salePrice": "1.590.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Nokia 105",
+    "originalPrice": "",
+    "salePrice": "820.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Mobell Rock 4 4G",
+    "originalPrice": "",
+    "salePrice": "790.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Nokia 110 4G Pro",
+    "originalPrice": "",
+    "salePrice": "720.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Mobell M539 4G",
+    "originalPrice": "",
+    "salePrice": "700.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Masstel Fami 60S 4G",
+    "originalPrice": "",
+    "salePrice": "700.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Nokia 105 4G Pro",
+    "originalPrice": "",
+    "salePrice": "680.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Mobell F209 4G",
+    "originalPrice": "",
+    "salePrice": "620.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Mobell M331 4G",
+    "originalPrice": "",
+    "salePrice": "550.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Mobell M239",
+    "originalPrice": "",
+    "salePrice": "500.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "Itel it2600",
+    "originalPrice": "",
+    "salePrice": "490.000₫",
+    "discountRate": ""
+  },
+  {
+    "name": "HONOR 90 12GB/256GB",
+    "originalPrice": "",
+    "salePrice": "",
+    "discountRate": ""
+  },
+  {
+    "name": "HONOR X6a 4GB/128GB",
+    "originalPrice": "",
+    "salePrice": "",
+    "discountRate": ""
+  },
+  {
+    "name": "realme C65S",
+    "originalPrice": "",
+    "salePrice": "",
+    "discountRate": ""
+  }
+]

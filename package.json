@@ -5,6 +5,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "fs-extra": "^11.2.0",
     "puppeteer": "^23.1.0"
   }
 }

@@ -1,4 +1,5 @@
 import puppeteer from 'puppeteer';
+import fs from 'fs-extra';
 
 (async () => {
   // Launch the browser in headless mode and open a new blank page
@@ -60,6 +61,11 @@ import puppeteer from 'puppeteer';
 
   // Print the JSON data
   console.log(JSON.stringify(allProducts, null, 2));
+
+  // Save the data to thegioididong.json
+  await fs.writeJson('thegioididong.json', allProducts, { spaces: 2 })
+    .then(() => console.log('Successfully wrote to thegioididong.json'))
+    .catch(err => console.error('Error writing file', err));
 
   await browser.close();
 })();
